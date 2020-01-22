@@ -5,3 +5,7 @@ chicken
 
 paneer
 milk
+
+dishes of veg
+sahi panner
+paneer butter masala
